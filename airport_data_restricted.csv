@@ -1,0 +1,84 @@
+0,name,city,country,iata,icao,latitude,longitude,altitude,dst,tz
+1,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,YOW,CYOW,45.322498,-75.669197,374.0,A,America/Toronto
+2,Billy Bishop Toronto City Centre Airport,Toronto,Canada,YTZ,CYTZ,43.627499,-79.396202,252.0,A,America/Toronto
+3,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,YUL,CYUL,45.4706,-73.740799,118.0,A,America/Toronto
+4,Vancouver International Airport,Vancouver,Canada,YVR,CYVR,49.193901,-123.183998,14.0,A,America/Vancouver
+5,Calgary International Airport,Calgary,Canada,YYC,CYYC,51.113899,-114.019997,3557.0,A,America/Edmonton
+6,Victoria International Airport,Victoria,Canada,YYJ,CYYJ,48.6469,-123.426003,63.0,A,America/Vancouver
+7,Lester B. Pearson International Airport,Toronto,Canada,YYZ,CYYZ,43.6772,-79.6306,569.0,A,America/Toronto
+8,Düsseldorf Airport,Duesseldorf,Germany,DUS,EDDL,51.289501,6.76678,147.0,E,Europe/Berlin
+9,London Heathrow Airport,London,United Kingdom,LHR,EGLL,51.4706,-0.461941,83.0,E,Europe/London
+10,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,EKCH,55.617901,12.656,17.0,E,Europe/Copenhagen
+11,Bergen Airport Flesland,Bergen,Norway,BGO,ENBR,60.2934,5.21814,170.0,E,Europe/Oslo
+12,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681.0,E,Europe/Oslo
+13,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA,59.651901,17.9186,137.0,E,Europe/Stockholm
+14,Cape Town International Airport,Cape Town,South Africa,CPT,FACT,-33.964802,18.6017,151.0,U,Africa/Johannesburg
+15,OR Tambo International Airport,Johannesburg,South Africa,JNB,FAOR,-26.1392,28.246,5558.0,U,Africa/Johannesburg
+16,Barcelona International Airport,Barcelona,Spain,BCN,LEBL,41.2971,2.07846,12.0,E,Europe/Madrid
+17,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,40.471926,-3.56264,1998.0,E,Europe/Madrid
+18,Toulouse-Blagnac Airport,Toulouse,France,TLS,LFBO,43.629101,1.36382,499.0,E,Europe/Paris
+19,Nice-Côte d'Azur Airport,Nice,France,NCE,LFMN,43.658401,7.21587,12.0,E,Europe/Paris
+20,Paris-Orly Airport,Paris,France,ORY,LFPO,48.723333,2.379444,291.0,E,Europe/Paris
+21,Auckland International Airport,Auckland,New Zealand,AKL,NZAA,-37.008099,174.792007,23.0,Z,Pacific/Auckland
+22,Christchurch International Airport,Christchurch,New Zealand,CHC,NZCH,-43.489399,172.531998,123.0,Z,Pacific/Auckland
+23,Taiwan Taoyuan International Airport,Taipei,Taiwan,TPE,RCTP,25.0777,121.233002,106.0,U,Asia/Taipei
+24,Fukuoka Airport,Fukuoka,Japan,FUK,RJFF,33.585899,130.451004,32.0,U,Asia/Tokyo
+25,Osaka International Airport,Osaka,Japan,ITM,RJOO,34.7855,135.438004,50.0,U,Asia/Tokyo
+26,Tokyo Haneda International Airport,Tokyo,Japan,HND,RJTT,35.552299,139.779999,35.0,U,Asia/Tokyo
+27,Presidente Juscelino Kubistschek International Airport,Brasilia,Brazil,BSB,SBBR,-15.869167,-47.920834,3497.0,S,America/Sao_Paulo
+28,Congonhas Airport,Sao Paulo,Brazil,CGH,SBSP,-23.62611,-46.656387,2631.0,S,America/Sao_Paulo
+29,El Dorado International Airport,Bogota,Colombia,BOG,SKBO,4.70159,-74.1469,8361.0,U,America/Bogota
+30,Luis Munoz Marin International Airport,San Juan,Puerto Rico,SJU,TJSJ,18.4394,-66.001801,9.0,U,America/Puerto_Rico
+31,Pulkovo Airport,St. Petersburg,Russia,LED,ULLI,59.800301,30.262501,78.0,N,Europe/Moscow
+32,Sheremetyevo International Airport,Moscow,Russia,SVO,UUEE,55.972599,37.4146,622.0,N,Europe/Moscow
+33,Vnukovo International Airport,Moscow,Russia,VKO,UUWW,55.591499,37.261501,685.0,N,Europe/Moscow
+34,Netaji Subhash Chandra Bose International Airport,Kolkata,India,CCU,VECC,22.654699,88.446701,16.0,N,Asia/Calcutta
+35,Hong Kong International Airport,Hong Kong,Hong Kong,HKG,VHHH,22.308901,113.915001,28.0,U,Asia/Hong_Kong
+36,Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5665,77.103104,777.0,N,Asia/Calcutta
+37,Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000.0,N,Asia/Calcutta
+38,Chennai International Airport,Madras,India,MAA,VOMM,12.990005,80.169296,52.0,N,Asia/Calcutta
+39,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,BKI,WBKK,5.93721,116.051003,10.0,N,Asia/Kuala_Lumpur
+40,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,KUL,WMKK,2.74558,101.709999,69.0,N,Asia/Kuala_Lumpur
+41,Brisbane International Airport,Brisbane,Australia,BNE,YBBN,-27.384199,153.117004,13.0,N,Australia/Brisbane
+42,Gold Coast Airport,Coolangatta,Australia,OOL,YBCG,-28.1644,153.505005,21.0,N,Australia/Brisbane
+43,Melbourne International Airport,Melbourne,Australia,MEL,YMML,-37.673302,144.843002,434.0,O,Australia/Hobart
+44,Adelaide International Airport,Adelaide,Australia,ADL,YPAD,-34.945,138.531006,20.0,O,Australia/Adelaide
+45,Perth International Airport,Perth,Australia,PER,YPPH,-31.9403,115.967003,67.0,N,Australia/Perth
+46,Canberra International Airport,Canberra,Australia,CBR,YSCB,-35.3069,149.195007,1886.0,O,Australia/Sydney
+47,Sydney Kingsford Smith International Airport,Sydney,Australia,SYD,YSSY,-33.946098,151.177002,21.0,O,Australia/Sydney
+48,Whiting Field Naval Air Station - North,Milton,United States,NSE,KNSE,30.724199,-87.021896,199.0,A,America/Chicago
+49,General Edward Lawrence Logan International Airport,Boston,United States,BOS,KBOS,42.3643,-71.005203,20.0,A,America/New_York
+50,Metropolitan Oakland International Airport,Oakland,United States,OAK,KOAK,37.721298,-122.221001,9.0,A,America/Los_Angeles
+51,Phoenix Sky Harbor International Airport,Phoenix,United States,PHX,KPHX,33.434299,-112.012001,1135.0,N,America/Phoenix
+52,North Perry Airport,Hollywood,United States,HWO,KHWO,26.0012,-80.2407,8.0,A,America/New_York
+53,San Francisco International Airport,San Francisco,United States,SFO,KSFO,37.618999,-122.375,13.0,A,America/Los_Angeles
+54,Los Angeles International Airport,Los Angeles,United States,LAX,KLAX,33.942501,-118.407997,125.0,A,America/Los_Angeles
+55,Newark Liberty International Airport,Newark,United States,EWR,KEWR,40.692501,-74.168701,18.0,A,America/New_York
+56,Ronald Reagan Washington National Airport,Washington,United States,DCA,KDCA,38.8521,-77.037697,15.0,A,America/New_York
+57,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,FLL,KFLL,26.072599,-80.152702,9.0,A,America/New_York
+58,Miami International Airport,Miami,United States,MIA,KMIA,25.7932,-80.290604,8.0,A,America/New_York
+59,Seattle Tacoma International Airport,Seattle,United States,SEA,KSEA,47.449001,-122.308998,433.0,A,America/Los_Angeles
+60,Kenai Municipal Airport,Kenai,United States,ENA,PAEN,60.573101,-151.244995,99.0,A,America/Anchorage
+61,Bob Hope Airport,Burbank,United States,BUR,KBUR,34.200699,-118.359001,778.0,A,America/Los_Angeles
+62,Tampa International Airport,Tampa,United States,TPA,KTPA,27.9755,-82.533203,26.0,A,America/New_York
+63,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,DFW,KDFW,32.896801,-97.038002,607.0,A,America/Chicago
+64,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,ATL,KATL,33.6367,-84.428101,1026.0,A,America/New_York
+65,Nashville International Airport,Nashville,United States,BNA,KBNA,36.1245,-86.6782,599.0,A,America/Chicago
+66,La Guardia Airport,New York,United States,LGA,KLGA,40.777199,-73.872597,21.0,A,America/New_York
+67,Portland International Airport,Portland,United States,PDX,KPDX,45.588699,-122.598,31.0,A,America/Los_Angeles
+68,San Diego International Airport,San Diego,United States,SAN,KSAN,32.733601,-117.190002,17.0,A,America/Los_Angeles
+69,Norman Y. Mineta San Jose International Airport,San Jose,United States,SJC,KSJC,37.362598,-121.929001,62.0,A,America/Los_Angeles
+70,Denver International Airport,Denver,United States,DEN,KDEN,39.861698,-104.672997,5431.0,A,America/Denver
+71,Philadelphia International Airport,Philadelphia,United States,PHL,KPHL,39.871899,-75.241096,36.0,A,America/New_York
+72,Ted Stevens Anchorage International Airport,Anchorage,United States,ANC,PANC,61.1744,-149.996002,152.0,A,America/Anchorage
+73,Opa-locka Executive Airport,Miami,United States,OPF,KOPF,25.907,-80.278397,8.0,A,America/New_York
+74,John F Kennedy International Airport,New York,United States,JFK,KJFK,40.639801,-73.7789,13.0,A,America/New_York
+75,Sacramento International Airport,Sacramento,United States,SMF,KSMF,38.6954,-121.591003,27.0,A,America/Los_Angeles
+76,Chicago O'Hare International Airport,Chicago,United States,ORD,KORD,41.9786,-87.9048,672.0,A,America/Chicago
+77,John Wayne Airport-Orange County Airport,Santa Ana,United States,SNA,KSNA,33.675701,-117.867996,56.0,A,America/Los_Angeles
+78,McCarran International Airport,Las Vegas,United States,LAS,KLAS,36.080101,-115.152,2181.0,A,America/Los_Angeles
+79,Orlando International Airport,Orlando,United States,MCO,KMCO,28.429399,-81.308998,96.0,A,America/New_York
+80,Incheon International Airport,Seoul,South Korea,ICN,RKSI,37.469101,126.450996,23.0,U,Asia/Seoul
+81,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,LEPA,39.551701,2.73881,27.0,E,Europe/Madrid
+82,Addison Airport,Addison,United States,ADS,KADS,32.968601,-96.836403,644.0,A,America/Chicago
+83,Evergreen Regional Airport/Middleton Field,Evergreen,United States,\N,KGZH,31.4158,-87.043999,259.0,A,\N
